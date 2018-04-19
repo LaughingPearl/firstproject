@@ -1,3 +1,3 @@
 # firstproject
 
-https://vizor.io/edit/wLJse6uW2fad
+<script src='//vizor.io/static/scripts/vizor-360-embed.js' data-vizorurl='//vizor.io/embed/martac/firstproj'></script>
